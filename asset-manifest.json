@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Scroll-Indicator-By-React/static/css/main.362013e8.css",
+    "main.js": "/Scroll-Indicator-By-React/static/js/main.6981d262.js",
+    "index.html": "/Scroll-Indicator-By-React/index.html",
+    "main.362013e8.css.map": "/Scroll-Indicator-By-React/static/css/main.362013e8.css.map",
+    "main.6981d262.js.map": "/Scroll-Indicator-By-React/static/js/main.6981d262.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.362013e8.css",
+    "static/js/main.6981d262.js"
+  ]
+}
