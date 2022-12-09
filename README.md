@@ -1,6 +1,6 @@
 # Scroll-Indicator-By-React
 
-😉 **By scrolling Indicator you can see how much time you need to finish reading the articles on the site!**
+⌚ **By scrolling Indicator you can see how much time you need to finish reading the articles on the site!**
 
 ![scroll](https://user-images.githubusercontent.com/109727844/206660447-dc772fe6-7456-4aa0-b307-6a62006c1745.jpg)
 
