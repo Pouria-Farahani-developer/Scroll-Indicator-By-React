@@ -1,4 +1,4 @@
-<p align="Left" display="inline"> <img src="https://komarev.com/ghpvc/?username=scroll-indicator-by-react&label=Profile%20views&color=DE3163" alt="scroll-indicator-by-react" /> </p>
+<p align="Left" display="inline"> <img src="https://komarev.com/ghpvc/?username=scroll-indicator-by-react&label=Profile%20views&color=DE3163&display=inline" alt="scroll-indicator-by-react" /> </p>
 
 # Scroll-Indicator-By-React
 
