@@ -4,7 +4,7 @@
 
 ![scroll](https://user-images.githubusercontent.com/109727844/206660447-dc772fe6-7456-4aa0-b307-6a62006c1745.jpg)
 
-![view final](https://user-images.githubusercontent.com/109727844/204102930-fac80657-4d16-4816-b476-a88e984abefe.jpg)
+![scroll (1)](https://user-images.githubusercontent.com/109727844/206660823-4f1455a7-6483-40d8-9285-e24bd7072018.jpg)
 
 - 🔗 [Demo Project](https://pouria-farahani-developer.github.io/Scroll-Indicator-By-React/)
 
