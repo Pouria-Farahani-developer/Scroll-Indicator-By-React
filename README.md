@@ -1,4 +1,4 @@
-<p align="center" display="inline"> <img src="https://komarev.com/ghpvc/?username=scroll-indicator-by-react&label=Profile%20views&color=0e75b6&style=flat" alt="scroll-indicator-by-react" /> </p>
+
 
 # Scroll-Indicator-By-React
 
@@ -7,6 +7,8 @@
 ![scroll](https://user-images.githubusercontent.com/109727844/206660447-dc772fe6-7456-4aa0-b307-6a62006c1745.jpg)
 
 ![scroll (1)](https://user-images.githubusercontent.com/109727844/206660823-4f1455a7-6483-40d8-9285-e24bd7072018.jpg)
+
+- Profile View - <p align="center" display="inline"> <img src="https://komarev.com/ghpvc/?username=scroll-indicator-by-react&label=Profile%20views&color=0e75b6&style=flat" alt="scroll-indicator-by-react" /> </p>
 
 - 🔗 [Demo Project](https://pouria-farahani-developer.github.io/Scroll-Indicator-By-React/)
 
