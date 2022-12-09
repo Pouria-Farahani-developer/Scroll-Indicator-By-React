@@ -1,6 +1,6 @@
 # Scroll-Indicator-By-React
 
-😉 **If you have a lot of information to display on your site, why don't you use my accordion menu**
+😉 **By scrolling Indicator you can see how much time you need to finish reading the articles on the site!**
 
 ![scroll](https://user-images.githubusercontent.com/109727844/206660447-dc772fe6-7456-4aa0-b307-6a62006c1745.jpg)
 
