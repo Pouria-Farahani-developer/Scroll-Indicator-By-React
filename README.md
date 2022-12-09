@@ -1,6 +1,6 @@
 # Scroll-Indicator-By-React
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=scroll-indicator-by-react&label=Profile%20views&color=0e75b6&style=flat" alt="scroll-indicator-by-react" /> </p>
+<p align="Right"> <img src="https://komarev.com/ghpvc/?username=scroll-indicator-by-react&label=Profile%20views&color=0e75b6&style=flat" alt="scroll-indicator-by-react" /> </p>
 
 ⌚ **By scrolling Indicator you can see how much time you need to finish reading the articles on the site!**
 
