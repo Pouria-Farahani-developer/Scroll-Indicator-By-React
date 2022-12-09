@@ -14,7 +14,7 @@
 
 - 🤖 Technologies Used - Html , css , js , React.js
 
-- 🚧 Hooks Used : useState 
+- 🚧 Hooks Used : useState , useEffect
 
 - 🕵🏻‍♀️ Role - Frontend
 
