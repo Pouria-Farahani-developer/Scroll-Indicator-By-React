@@ -10,7 +10,7 @@
 
 - 🔗 [Demo Project](https://pouria-farahani-developer.github.io/Scroll-Indicator-By-React/)
 
-- 📤 You can download the project file In master's Branch
+- 📤 You can download the project file In [master's Branch](https://github.com/Pouria-Farahani-developer/Scroll-Indicator-By-React/tree/master)
 
 - 👨‍💻 Developed by pouria farahani
 
